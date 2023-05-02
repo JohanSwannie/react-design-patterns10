@@ -7,6 +7,7 @@ const LargeProductListItem = ({ product }) => {
       <h3>Description:</h3>
       <p>{description}</p>
       <p>Average Rating: {rating}</p>
+      <br />
     </>
   );
 };
