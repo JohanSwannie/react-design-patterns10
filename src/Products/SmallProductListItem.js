@@ -1,9 +1,9 @@
 export const SmallProductListItem = ({ product }) => {
   const { name, price } = product;
   return (
-    <h4>
+    <p>
       {name} - {price}
-    </h4>
+    </p>
   );
 };
 
