@@ -6,6 +6,8 @@ import LargePersonListItem from "./People/LargePersonListItem";
 import SmallProductListItem from "./Products/SmallProductListItem";
 import LargeProductListItem from "./Products/LargeProductListItem";
 
+// * Styled Components
+
 const Div = styled.div`
   text-align: center;
 `;
